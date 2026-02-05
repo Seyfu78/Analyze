@@ -4,6 +4,7 @@ sales= pd.read_csv("sales_data.csv")
 product=pd.read_csv("product_data.csv")
 store=pd.read_csv("store_data.csv")
 
+#Please clean up the data first before proceeding to the transformation
 
 #project
 #There could be products that are in the products table but not in the sales table
