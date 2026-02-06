@@ -4,7 +4,7 @@ This is a repository created to conduct a data manipulation project. Clean and t
 
 
 
-In this project, you will practice how to clean and transform datasets
+In this project, you will practice how to clean and transform datasets (joining the datasets provided)
 
 
 
